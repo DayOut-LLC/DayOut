@@ -108,3 +108,38 @@ APP EVALUATION CRITERIA
 - Scope: 
     - The app is very simple to build in the time of the program, the idea behind is simple yet interesting.
     - The stripped down version (without the most-shared questions and personalization) would still be interesting.
+
+---
+## Fashion App 
+APP EVALUATION CRITERIA
+
+**Mobile**: 
+- Location: shows available shops to purchase a given item
+- Push notifications: the user will be notified whenever an item is available, on sale, or is similar to the user's preferences
+- Camera: augmented reality for trying on clothes
+
+**Story**: Have you ever struggled trying to find the right outfit on a given day or a given occasion? Well, with this fashion app, those worries can be alleviated! You can get fashion advice regarding a style that you're trying to look for, aided by real-time information on the weather at a given moment!
+
+**Market**: 
+
+If you are a:
+- fashionista
+- hopeful trendsetter
+- someone who just wants a little aid in their wardrobe
+
+then this app is just for you!
+
+**Habit**:
+- can be mildly addicting for someone shopping or looking for inspiration
+- no creation by users; only consumption of products
+
+**Scope**: 
+Technical challenges:
+- uploading + updating data
+- map feature/API
+
+Is a stripped-down version of this app still interesting to build?
+- definitely :D
+
+How clearly defined is the product you want to build?
+- Overall goal: create a suggested list of items that are available at a branch of shops 
