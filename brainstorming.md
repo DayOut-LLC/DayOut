@@ -88,3 +88,23 @@ Activity App !
 * Activi-U
 * Activi-N
 * Dayout
+
+# Question of the Day
+APP EVALUATION CRITERIA
+- Mobile: How uniquely mobile is the product experience?
+    - Push notification whenever your friend uploaded a question, so it's also real-time.
+- Story: How compelling is the story around this app once completed?
+    - It is an app like beReal, just real-time sharing thoughts that makes people engaged and updated with their friends. Only questions allowed, so that could open the playground for endless creative ideas to fit in the criteria of the apps. Our friends and peers will pretty much be excited to connect with me and each other and ask quirky questions.
+
+
+- Market:
+    - Basically it will be for everyone, but especially for young people because they are very invested in social media.
+    - It might as well can serve a niche group, e.g. we can create a topic for only astronomy questions.
+
+- Habit:
+    - This is habit-forming by push notification, infinity scrolling and suggest to users the most-shared/personalized questions across the apps.
+    - User would use it on a daily/hourly basis if the user base is large enough and there are always some fun questions and answer to make them entertained in their free time.
+
+- Scope: 
+    - The app is very simple to build in the time of the program, the idea behind is simple yet interesting.
+    - The stripped down version (without the most-shared questions and personalization) would still be interesting.
