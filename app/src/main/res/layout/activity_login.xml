@@ -52,6 +52,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:drawableLeft="@drawable/baseline_email_24"
+            android:paddingRight="20dp"
             android:inputType="textEmailAddress"
             tools:text="abc@gmail.com" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -73,6 +74,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textPassword"
+            android:paddingRight="20dp"
             android:drawableLeft="@drawable/baseline_security_24"
             tools:text="1234"/>
     </com.google.android.material.textfield.TextInputLayout>
