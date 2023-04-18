@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127525395006",
+    "project_id": "dayout-40e6d",
+    "storage_bucket": "dayout-40e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127525395006:android:ae3b5da731e6348de58f6f",
+        "android_client_info": {
+          "package_name": "com.example.dayout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127525395006-o4nasj0jv07ldq23h3ruph44c7opu9ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfkMiRcj-Os6nN2MjWXJXF5HN2ho_CY3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127525395006-o4nasj0jv07ldq23h3ruph44c7opu9ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
