@@ -75,10 +75,10 @@ The Dayout App will help users find out what activites there are in a 10 mile ra
 
 ### 2. Screen Archetypes
 
-- Login
+- [X] Login
   - username/password
   - login button
-- Sign Up
+- [X] Sign Up
   - users can sign up
 - Stream
     - users can see a list of events/activities
@@ -86,7 +86,7 @@ The Dayout App will help users find out what activites there are in a 10 mile ra
         - when event/activity clicked on, details will be shown
 - Map
     - user can see their real-time location
-- Profile
+- [X] Profile
     - user can view their identity and stats
 
 ### 3. Navigation
@@ -111,3 +111,8 @@ The Dayout App will help users find out what activites there are in a 10 mile ra
 ## Wireframes
 
 <img src="https://i.imgur.com/mOQYiDQ.png" width=600>
+
+## GIF Walkthrough
+
+<img src="https://user-images.githubusercontent.com/94074946/232685641-a8a684a7-3236-464d-a842-f6c2aadcd1fe.gif">
+
