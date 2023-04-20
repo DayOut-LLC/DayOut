@@ -10,7 +10,7 @@
 - [ ] Figma Interactive Wireframe
 
 
-## GIF Walkthrough
+## Sprint 1 Preview
 
 <img src="https://user-images.githubusercontent.com/94074946/232685641-a8a684a7-3236-464d-a842-f6c2aadcd1fe.gif">
 
