@@ -15,5 +15,5 @@
 
 ## Sprint 1 Preview
 
-<img src="http://g.recordit.co/lL51S4T8AM.gif">
+<img src="http://g.recordit.co/lL51S4T8AM.gif">      <img src="http://g.recordit.co/XjlA1DupDx.gif">
 
