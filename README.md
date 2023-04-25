@@ -1,4 +1,4 @@
-# Milestone 1 - Dayout App
+# Milestone 2 - DayOut App
 
 [Project Board](https://github.com/orgs/DayOut-LLC/projects/1)
 
