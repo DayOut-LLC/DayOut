@@ -46,13 +46,12 @@ class EventAdapter (private val context: Context, private val events: List<Event
 
         override fun onClick(v: View?) {
             // Get selected article
-            val article = events[absoluteAdapterPosition]
+            val article = events[adapterPosition]
 
             // Navigate to Details screen and pass selected article
             val intent = Intent(context, EventDetailActivity::class.java)
             intent.putExtra(ARTICLE_EXTRA, article)
             context.startActivity(intent)
         }
-
     }
 }
