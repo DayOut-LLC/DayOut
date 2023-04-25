@@ -11,7 +11,6 @@
 - [x] Implement Google Maps API
 - [x] Create BottomNavBar
 - [x] Connect all screens to NavBar
-- [ ] Figma Interactive Wireframe
 
 
 ## Sprint 1 Preview
